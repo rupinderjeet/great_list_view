@@ -6,3 +6,5 @@ export 'src/other_widgets.dart';
 export 'src/delegates.dart';
 export 'src/widgets.dart';
 export 'src/dispatcher.dart';
+
+export 'package:worker_manager/worker_manager.dart';
